@@ -1,0 +1,11 @@
+{
+  "name": "bun-plugin-copy",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "dependencies": {
+    "mkdirp": "^3.0.1"
+  }
+}
